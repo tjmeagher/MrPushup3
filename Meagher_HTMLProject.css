@@ -1,0 +1,44 @@
+.icon {
+   border: 10px solid #337ab7;
+}
+.iphone {
+    background-color: #337ab7;
+}
+.creative {
+    color: #337ab7;
+}
+.iphone p {
+    color: white;
+}
+.love {
+    color: white !important;
+}
+.moe:hover {
+    border:5px solid lightgray;
+}
+.clover:hover {
+    border:10px solid #337ab7;
+}
+.fun {
+  text-align: center;
+}
+.link {
+    color: black;
+}
+.link:hover {
+    color: white;
+}
+.img {
+    max-width:100%;
+}
+.icons {
+    max-width: 100px;
+    max-height:100px;
+}
+.math { 
+    max-width:250px;
+    max-height:250px;
+}
+.font {
+    font-size: 18px;
+}
